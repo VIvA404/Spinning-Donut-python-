@@ -3,6 +3,10 @@
 **Installing**
  
 Install pygame(colorsys and math haven't install because they built-in python)
+
+```pip install pygame```
+
+
 #
 **How it's work?**
 
